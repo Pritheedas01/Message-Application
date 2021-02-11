@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ChitChat </string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="spinner_items">
+        <item><b>Select Night Mode</b></item>
+        <item>FOLLLOW_SYSTEM</item>
+        <item>YES</item>
+        <item>NO</item>
+        <item>AUTO</item>
+    </string-array>
+</resources>
